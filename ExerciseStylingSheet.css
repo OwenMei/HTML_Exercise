@@ -39,8 +39,9 @@ article{
     color: white;
 }
 
-ul li{
+ul{
     list-style-position: inside;
+    padding-left: 0;
 }
 
 nav p{

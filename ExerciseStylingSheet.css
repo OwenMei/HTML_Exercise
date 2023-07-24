@@ -1,0 +1,42 @@
+nav{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+nav a{
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+    font-size: 30px;
+    padding: 15px;
+    text-decoration: none;
+}
+
+a:active{
+    color: rgb(0, 204, 255);
+}
+
+main{
+    background-color: rgb(146, 146, 146);
+    text-align: center;
+    color: white;
+}
+
+main a{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: rgb(112, 112, 112);
+}
+
+article{
+    background-color: rgb(146, 146, 146);
+    text-align: center;
+    color: white;
+}
+
+ul li{
+    list-style-position: inside;
+}

@@ -17,6 +17,7 @@ a:active{
 }
 
 main{
+    margin: 1%;
     background-color: rgb(146, 146, 146);
     text-align: center;
     color: white;
@@ -32,6 +33,7 @@ section{
 }
 
 article{
+    margin: 1%;
     background-color: rgb(146, 146, 146);
     text-align: center;
     color: white;
@@ -39,4 +41,12 @@ article{
 
 ul li{
     list-style-position: inside;
+}
+
+nav p{
+    color: white;
+}
+
+.bookReview{
+    background-color: rgb(112, 112, 112);
 }
